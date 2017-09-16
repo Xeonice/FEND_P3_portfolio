@@ -1,0 +1,40 @@
+.logo{
+    max-width:30%;
+    vertical-align: middle;
+}
+.logo-manager{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.body-font{
+    font-family: 'Lato', sans-serif
+}
+.right_header{
+    float: right;
+    text-align: right;
+}
+.headline-manager{
+    margin-bottom: 10%;
+    margin-right: 2%;
+}
+.img-introduce{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+.img-background{
+    width: 100%;
+    height: 100%;
+    objec-fit: cover;
+}
+.img-text-introduce{
+    font-weight: inherit;
+}
+.introduce-line{
+    font-weight: lighter;
+    font-size: 32px;
+}
+@media screen and (max-width: 990px) {
+    .img-thumb{
+        width: 80%;
+    }
+}
